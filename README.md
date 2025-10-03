@@ -149,14 +149,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Custom sync intervals
 - [ ] Data validation rules
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
-
 Project Link: [https://github.com/yourusername/json-to-sqlite-converter](https://github.com/yourusername/json-to-sqlite-converter)
 
 ## Acknowledgments
