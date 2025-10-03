@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFqiy5CDl2k=",
+  "success": true,
+  "projectFilePath": "D:\\github\\jsontosql\\jsontosql\\jsontosql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bsi\\.nuget\\packages\\newtonsoft.json\\13.0.4-beta1\\newtonsoft.json.13.0.4-beta1.nupkg.sha512",
+    "C:\\Users\\Bsi\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Bsi\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
